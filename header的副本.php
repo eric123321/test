@@ -33,7 +33,7 @@
                     <ul>
                         <li><a href="salary.php">salary</a></li>
                         <li><a href="cost.php">cost</a>
-                            <ul>
+                            <ul>    
                                 <li><a href="day.php">day</a></li>
                                 <li><a href="month.php">month</a></li>
                                 <li><a href="year.php">year</a></li>
